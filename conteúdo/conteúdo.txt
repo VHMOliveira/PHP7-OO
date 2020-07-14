@@ -1,0 +1,15 @@
+OO - Pilar abstração
+
+Entidade: é a compreenssão de um objeto do mundo real deve ser reproduzido dentro da aplicação
+
+Identidade: é o modelo criado com base no processo de abstração da entidade
+
+Características: são os atributos da entidade;
+
+Ações: São os comportamentos da entidade;
+
+EX:
+Entidade : Produto;
+Identidade: x = new Produto();
+Características: categoria, título, descrição, valor
+Ações: exibirResumoProduto(), alterarValorProduto();

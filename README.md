@@ -6,4 +6,13 @@ Projetos:<br/>
 
 Conteúdo sobre php7 & OO:<br/>
 
-php em html; <br/>
+OO - Pilar da abstração; <br/>
+OO - construtor & destrutor; <br/>
+Getters-setters; <br/>
+OO - Pilar da herança; <br/>
+OO - Pilar do polimorfismo; <br/>
+OO - Pilar do encapsulamento; <br/>
+Método e atributo estático; <br/>
+Interfaces; <br/>
+Namespace; <br/>
+Try, catch, finally e throw; <br/>
